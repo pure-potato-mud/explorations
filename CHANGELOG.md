@@ -1,5 +1,9 @@
 # Changelog
 
+## 19 May 2026
+
+* Added standalone scripts to `src/cpp`.
+
 ## 12 May 2026
 
 * Added standalone scripts to `src/cpp`.
